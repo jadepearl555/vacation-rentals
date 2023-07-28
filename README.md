@@ -22,4 +22,4 @@ Let's assume we are building a functionality called `feature`
 - File: `feature-custom` a custom class for a sub-feature
 - File: `class-feature-meta-boxes` class for related meta boxes
 
-Copyright Ahmad Awais | WPTie | WGA.
+Copyright Jade pearl.
